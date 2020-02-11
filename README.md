@@ -1,5 +1,5 @@
 # Express-Calculator
-![](https://github.com/ThatJohn/express-calculator/workflows/node/badge.svg)
+![](https://github.com/ThatJohn/express-calculator/Node.js%20CI/badge.svg)
 
 ## Instructions
 There are four operation values which a user may use: *addition, subtraction, multiplication, and division.*
