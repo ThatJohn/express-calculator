@@ -13,9 +13,9 @@ test('Multiplies two given numbers', () => {
 });
 
 test('Divides the first number by the second one', () => {
-    expect(operations.divide(100,10)).toBe(10);
+    expect(operations.divide(100,100)).toBe(1);
 });
 
 test('Multiply really big numbers', () => {
-    expect(operations.multiply(135242,26546)).toBe(3590134132);
+    expect(operations.multiply(1352342342242,264231441546)).toBe(3.5733136655429775e+23);
 });
