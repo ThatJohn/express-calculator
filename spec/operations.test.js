@@ -19,3 +19,4 @@ test('Divides the first number by the second one', () => {
 test('Multiply really big numbers', () => {
     expect(operations.multiply(1352342342242,264231441546)).toBe(3.5733136655429775e+23);
 });
+
